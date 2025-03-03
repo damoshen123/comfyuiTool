@@ -13,7 +13,7 @@ clear_screen() {
 
 # 显示标题
 show_title() {
-    echo -e "\n欢迎使用 AIar2 管理助手"
+    echo -e "\n欢迎使用 AIar2 管理助手by从前跟你一样"
     echo "============================"
 }
 
