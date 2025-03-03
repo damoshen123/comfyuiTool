@@ -74,11 +74,13 @@ generate_run_program_description() {
 \`cd $WORK_DIR/ComfyUI/ && python main.py\`
 
 ## 运行Ngrok命令
-如何获取Ngrok token ,请看视频教程。[token获取网址 https://dashboard.ngrok.com/get-started/setup/linux](https://dashboard.ngrok.com/get-started/setup/linux)
+如何获取Ngrok token 。[token获取网址 https://dashboard.ngrok.com/get-started/setup/linux](https://dashboard.ngrok.com/get-started/setup/linux)
 
 \`ngrok http 8188\`
 
 访问 Ngrok 隧道服务生成的网址
+
+如果感觉对你有帮助可以请喝咖啡:https://afdian.com/a/cqgnyy
 
 
 EOF
