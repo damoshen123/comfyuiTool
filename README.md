@@ -7,24 +7,16 @@
 1. **克隆仓库**：
     只需运行命令：
     ```bash
-    git clone https://github.com/aigem/aitools.git
-    ```
-    国内环境可用：
-    ```bash
-    git clone https://openi.pcl.ac.cn/niubi/aitools.git
+    git clone https://github.com/damoshen123/comfyuiTool.git
     ```
     ```bash
-    git clone https://gitee.com/fuliai/aitools.git
-    ```
-
-    ```bash
-    cd aitools && git pull
+    cd comfuiTool && git pull
     ```
     
 
 2. **运行安装脚本**：
     ```bash
-    bash aitools.sh
+    bash comfyuiTool.sh
     ```
     在菜单中选择选项 1 (ComfyUI) 开始自动安装
 
