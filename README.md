@@ -1,9 +1,5 @@
 
 
-## 快速开始【免费版】
-### 只 ComfyUI 的安装示范
-### 包含 ComfyUI + ComfyUI Manager + Ngrok + 国内环境可安装
-
 1. **克隆仓库**：
     只需运行命令：
     ```bash
